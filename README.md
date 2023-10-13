@@ -1,4 +1,4 @@
-# Visual Studio Shellcode Extractor
+# Visual Studio Shellcode Extractor 🐈‍⬛
 Time-saving tool for extracting and formatting shellcode extracted from visual studio (and more).
 
 <b>Suppose you have the following content in a file named decompiled.txt : </b>
